@@ -1,4 +1,5 @@
-Reffered: https://www.youtube.com/redirect?event=video_description&v=pFXYym4Wbkc&q=https%3A%2F%2Fgithub.com%2Fclementmihailescu%2FSorting-Visualizer-Tutorial&redir_token=3NlkpNWmRG9SPl1g25zTkPGcA158MTU3NTY5NDg3MEAxNTc1NjA4NDcw
+Reffered: https://github.com/clementmihailescu/Sorting-Visualizer-Tutorial
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
